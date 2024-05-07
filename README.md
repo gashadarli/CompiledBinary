@@ -1,2 +1,3 @@
 # CompiledBinary
-Windows Red Team Əməliyyatlarında istifadə olunan exe faylları
+All usefool compiled exe files for windows red team operations
+
